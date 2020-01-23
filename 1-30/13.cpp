@@ -10,7 +10,7 @@ int main()
   cout << "ввидите число: ";
   cin >> n;
 
-  while (d < n)
+  while (d <= n)
   {
     x += 1;
     d *= 2;
